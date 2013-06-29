@@ -1,12 +1,18 @@
 
 
-html, body {
-
+html,body {
 margin:0;
 padding:0;
 font-family: "Orienta";
-
 }
+
+/*table { 
+	height: 100%;
+	width: 100%;
+	border: 10px;
+}*/
+
+
 
 #container
 {
@@ -18,7 +24,7 @@ font-family: "Orienta";
 #header
 {
 	background:#7A1010;
-	padding: 20px;
+	padding: 15px;
 }
 
 #header h1 { margin: 0; }
@@ -52,19 +58,19 @@ font-family: "Orienta";
 	border-right: 1px solid#290104;
 }
 
-#navigation li a:hover { background:#383; }
+#navigation li a:hover { background:#520909	; }
 
 #content
 {
 	clear: left;
-	padding: 20px;
+	padding: 0px;
 }
 
 #content h2
 {
 	color:#000;
 	font-size: 160%;
-	margin: 0 0 .5em;
+	margin: 0px;
 }
 
 #footer
@@ -74,3 +80,4 @@ font-family: "Orienta";
 	padding: 20px;
 	height: 1%;
 }
+
