@@ -1,11 +1,9 @@
 ---
 layout: default
 title: PCB design best practices 
-has_children: true
 ---
 
 # PCB design best practices
-
 
 ## USB C
 Soldering a 16-pin USB C 16-Pin SMT receptacle is very difficult.
