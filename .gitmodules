@@ -1,0 +1,3 @@
+[submodule "wirelesskeyboard"]
+	path = wirelesskeyboard
+	url = https://github.com/HalFrgrd/wirelesskeyboard/
