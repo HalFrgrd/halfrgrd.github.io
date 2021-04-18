@@ -1,4 +1,10 @@
-# PCB Design Best Practices for Hobbyists
+---
+layout: default
+title: PCB design best practices 
+has_children: true
+---
+
+# PCB design best practices
 
 
 ## USB C
